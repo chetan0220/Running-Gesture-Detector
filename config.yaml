@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Running_Gesture_Detector/data
+train: images
+val: images
+
+names: 
+  0: DETECTED
