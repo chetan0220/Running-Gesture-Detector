@@ -28,16 +28,7 @@ Parameters and results are as follows: <br>
 ---
 
 **Step 5**: Testing<br>
-The model was tested uisng some of the videos which were unseen by the model. Here are some of the output videos:<br>
-
-https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/c0da8f15-0137-4efc-980b-d303ff151fe6
-
-https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/c0e636ce-1ad1-4d2c-adf3-6bc46db509f8 
-
-https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/b82c84ca-d884-45d9-80c1-bb1bf314ff57
-
-
-Screenshots: <br>
+The model was tested uisng some of the videos which were unseen by the model. Here are some of the screenshots of output videos:<br>
 
 ![image](https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/03b40e34-3f23-4232-97fb-8bfcbbda3382) <br>
 
@@ -46,4 +37,12 @@ Screenshots: <br>
 ![image](https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/3f15e890-8e46-46de-92b5-b73f5fc2a92b) <br>
 
 ![image](https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/77ca06b6-d2f8-403c-ae50-7f0b4b072c54) <br>
+
+![image](https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/9def5bf0-0b10-41dc-ac67-23ec3cbb6776) <br>
+
+![image](https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/9e051280-d9a3-416e-9682-1e5b67fed708) <br>
+
+![image](https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/ff95661e-b85b-4b0c-a325-0ebdc7a06c52) <br>
+
+![image](https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/2e1fe49a-e0de-40d1-a7c5-a68dfe300091) <br>
 
