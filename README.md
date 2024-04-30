@@ -46,3 +46,5 @@ The model was tested uisng some of the videos which were unseen by the model. He
 
 ![image](https://github.com/chetan0220/Running-Gesture-Detector/assets/97821311/2e1fe49a-e0de-40d1-a7c5-a68dfe300091) <br>
 
+---
+If you have any query, feedback or suggestion feel free to drop a mail at chetan.mahale0220@gmail.com :) 
